@@ -5,9 +5,12 @@
         "Rarity": "ITEMRARITY_RARE"
     },
     "4fad7437-59e9-4ca9-9b31-a6d97484216b": {
-        "Evergreen_CapacityCost": 2,
+        "Evergreen_CapacityCost": 1,
         "Evergreen_Rarity": 4,
         "Rarity": "ITEMRARITY_RARE"
+    },
+    "3fbd6da4-c61c-40d6-9494-8277d2e172e4": {
+        "Evergreen_CapacityCost": 0
     },
     "047aaf2b-058c-4278-9ed9-bf923e5c3277": {
         "Evergreen_CapacityCost": 1.0

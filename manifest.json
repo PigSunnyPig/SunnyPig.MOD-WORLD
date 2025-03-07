@@ -16,30 +16,33 @@
 		{
 			"name": "(a) 道具优化 Items Boost-up：ICA 微型感应电击装置 ICA Micro Proximity Taser",
 			"tooltip": "复活曾经的 ICA 微型感应电击装置。现在，NPC 能看见并拾取它了。\nRestores the visible ICA Proximity Micro Taser. Now, NPCs will pick up the device and get an electric shock easily.",
+			"image": "framework content/ICA_Proximity.png",
 			"type": "checkbox",
 			"contentFolders": ["mod content/Items/ICA Micro Proximity Taser"]
 		},
 		{
 			"name": "(b) 道具优化 Items Boost-up：ICA 微型遥控电击装置 ICA Micro Remote Taser",
 			"tooltip": "赋予 ICA 微型遥控电击装置同样力量。现在，NPC 能看见并拾取它了。\nEnhances the ICA Remote Micro Taser. Now, NPCs will pick up the device and get an electric shock easily.",
+			"image": "framework content/ICA_Remote.png",
 			"type": "checkbox",
 			"contentFolders": ["mod content/Items/ICA Micro Remote Taser"]
 		},
 		{
 			"name": "(c) 自由职业者优化 Freelancer Boost-up：添加一些新道具 Add a few new items",
-			"tooltip": "现在，你的安全屋将会自动生成一把小提琴、一个土制炸药、三枚旧式注射器以及一块 Merce。\nNow, your safehouse will spawn a Violin, a Makeshift Explosive, 3 Antique Syringes and a Merce Coin.",
+			"tooltip": "现在，你的安全屋将会自动生成一把小提琴、一个土制炸药以及三枚旧式注射器。\nNow, your safehouse will spawn a Violin, a Makeshift Explosive and 3 Antique Syringes.",
 			"type": "checkbox",
 			"contentFolders": ["mod content/Freelancer/Items"]
 		},
 		{
 			"name": "(d) 自由职业者优化 Freelancer Boost-up：自由的自由职业者 A Real Freelancer",
-			"tooltip": "现在，你能够在安全屋放置物品与到处开枪射击。\nNow, you can place items anywhere and shoot freely in the safehouse.",
+			"tooltip": "现在，你能够在安全屋放置物品与到处开枪射击。\nNow, you can place items anywhere and shoot freely in the safehouse.",
 			"type": "checkbox",
 			"contentFolders": ["mod content/Freelancer/Free"]
 		},
 		{
 			"name": "彩蛋(1)：北海道香妃",
 			"tooltip": "香妃最终还是在日本下海了（）",
+			"image": "framework content/Xiangfei.png",
 			"type": "checkbox",
 			"contentFolders": ["mod content/Easter Egg/content"],
 			"blobsFolders": ["mod content/Easter Egg/blobs"],
@@ -221,6 +224,7 @@
 		{
 			"name": "彩蛋(2)：电击雪饼",
 			"tooltip": "雪饼还是有一定的反击能力的（）",
+			"image": "framework content/Snow.png",
 			"type": "checkbox",
 			"localisationOverrides": {
 				"001F0F3B7F11E788":
@@ -263,12 +267,12 @@
 				{
 					"english": 
 					{
-						"3041304621": "ICA Micro Remote Taser",
-						"3771757183": "An ICA micro remote taser. A device that sends out an electrical surge upon detonation. Remotely triggered.",
-						"2671608394": "ICA Micro Proximity Taser",
-						"3400224792": "An ICA micro proximity taser. A device that sends out an electrical surge upon detonation. This device will detonate if anyone comes inside the proximity of it and it is placed in water.",
-						"1332315482": "ICA Micro Remote Taser",
-						"452941576": "A detonator for the ICA Micro Remote Taser."
+						"3041304621": "ICA Micro Remote Snow Cake",
+						"3771757183": "An ICA micro remote snow cake. A device that sends out an electrical surge upon detonation. Remotely triggered.",
+						"2671608394": "ICA Micro Proximity Snow Cake",
+						"3400224792": "An ICA micro proximity snow cake. A device that sends out an electrical surge upon detonation. This device will detonate if anyone comes inside the proximity of it and it is placed in water.",
+						"1332315482": "ICA Micro Remote Snow Cake",
+						"452941576": "A detonator for the ICA micro remote snow cake."
 					},
 					"french": {},
 					"italian": {},

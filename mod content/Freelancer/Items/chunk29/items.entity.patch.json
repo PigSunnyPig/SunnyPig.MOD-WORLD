@@ -3,17 +3,6 @@
     "tbluHash": "005BA5CA6AC00627",
     "patch": [
         {
-            "SubEntityOperation": [
-                "e432656ede56cb9", 
-                {
-                    "SetPropertyValue": {
-                        "property_name": "m_bSpawnOnStart",
-                        "value": true
-                    }
-                }
-            ]
-        },
-        {
             "AddEntity": [
                 "feedf2f67f1d2a1b",
                 {
@@ -208,11 +197,11 @@
                                 "rotation": {
                                     "x": 0,
                                     "y": 0,
-                                    "z": 12
+                                    "z": 9
                                 },
                                 "position": {
-                                    "x": -5.7123695812225342,
-                                    "y": 2.5178980022668839,
+                                    "x": 1.6523695812225342,
+                                    "y": 0.4578980022668839,
                                     "z": 1.02907395362854
                                 }
                             }
