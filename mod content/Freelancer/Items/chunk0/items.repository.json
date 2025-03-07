@@ -1,0 +1,24 @@
+{
+    "293af6cc-dd8d-4641-b650-14cdfd00f1de": {
+        "Evergreen_CapacityCost": 1,
+        "Evergreen_Rarity": 3.0,
+        "Rarity": "ITEMRARITY_RARE"
+    },
+    "4fad7437-59e9-4ca9-9b31-a6d97484216b": {
+        "Evergreen_CapacityCost": 2,
+        "Evergreen_Rarity": 4,
+        "Rarity": "ITEMRARITY_RARE"
+    },
+    "047aaf2b-058c-4278-9ed9-bf923e5c3277": {
+        "Evergreen_CapacityCost": 1.0
+    },
+    "1d4f5a7c-c0fb-4d66-9e77-35ae526ef83a": {
+        "Evergreen_CapacityCost": 1.0
+    },
+    "67559fbc-0877-4b82-9b05-6fe0cf6d7b1c": {
+        "Evergreen_CapacityCost": 1.0
+    },
+    "765b2c7d-8554-463a-9ee4-de7b20822161": {
+        "Evergreen_CapacityCost": 1.0
+    }
+}

@@ -1,0 +1,243 @@
+{
+    "tempHash": "00A9B93A825F5BDC",
+    "tbluHash": "005BA5CA6AC00627",
+    "patch": [
+        {
+            "SubEntityOperation": [
+                "e432656ede56cb9", 
+                {
+                    "SetPropertyValue": {
+                        "property_name": "m_bSpawnOnStart",
+                        "value": true
+                    }
+                }
+            ]
+        },
+        {
+            "AddEntity": [
+                "feedf2f67f1d2a1b",
+                {
+                    "parent": "bdd2f3ef19f86bbb",
+                    "name": "Item_Convenient_Antique_Syringe_Lethal",
+                    "factory": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entitytype",
+                    "blueprint": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entityblueprint",
+                    "properties": {
+                        "m_mTransform": {
+                            "type": "SMatrix43",
+                            "value": {
+                                "rotation": {
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": -85
+                                },
+                                "position": {
+                                    "x": 12.729499740600588,
+                                    "y": -166.16619689941408,
+                                    "z": -18.169750213623048
+                                }
+                            }
+                        },
+                        "repositoryId": {
+                            "type": "ZGuid",
+                            "value": "1bfbb69d-c876-4d05-ab0b-f0be63b55b7a"
+                        },
+                        "anyTrue": {
+                            "type": "bool",
+                            "value": true
+                        },
+                        "m_bSpawnOnStart": {
+                            "type": "bool",
+                            "value": true
+                        },
+                        "m_eidParent": {
+                            "type": "SEntityTemplateReference",
+                            "value": "fffffffffffffffe",
+                            "postInit": true
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "AddEntity": [
+                "feed25372427a700",
+                {
+                    "parent": "bdd2f3ef19f86bbb",
+                    "name": "Item_Convenient_Antique_Syringe_Emetic",
+                    "factory": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entitytype",
+                    "blueprint": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entityblueprint",
+                    "properties": {
+                        "m_mTransform": {
+                            "type": "SMatrix43",
+                            "value": {
+                                "rotation": {
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": -85
+                                },
+                                "position": {
+                                    "x": 12.899499740600588,
+                                    "y": -166.16619689941408,
+                                    "z": -18.169750213623048
+                                }
+                            }
+                        },
+                        "repositoryId": {
+                            "type": "ZGuid",
+                            "value": "261f1057-b1b2-4fe0-bd0d-b621102972c8"
+                        },
+                        "anyTrue": {
+                            "type": "bool",
+                            "value": true
+                        },
+                        "m_bSpawnOnStart": {
+                            "type": "bool",
+                            "value": true
+                        },
+                        "m_eidParent": {
+                            "type": "SEntityTemplateReference",
+                            "value": "fffffffffffffffe",
+                            "postInit": true
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "AddEntity": [
+                "feedb47aa6f36770",
+                {
+                    "parent": "bdd2f3ef19f86bbb",
+                    "name": "Item_Convenient_Antique_Syringe_Sedative",
+                    "factory": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entitytype",
+                    "blueprint": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entityblueprint",
+                    "properties": {
+                        "m_mTransform": {
+                            "type": "SMatrix43",
+                            "value": {
+                                "rotation": {
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": -85
+                                },
+                                "position": {
+                                    "x": 13.069499740600588,
+                                    "y": -166.16619689941408,
+                                    "z": -18.169750213623048
+                                }
+                            }
+                        },
+                        "repositoryId": {
+                            "type": "ZGuid",
+                            "value": "b386cf6a-6a9b-4fb5-b879-4d55039d8ced"
+                        },
+                        "anyTrue": {
+                            "type": "bool",
+                            "value": true
+                        },
+                        "m_bSpawnOnStart": {
+                            "type": "bool",
+                            "value": true
+                        },
+                        "m_eidParent": {
+                            "type": "SEntityTemplateReference",
+                            "value": "fffffffffffffffe",
+                            "postInit": true
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "AddEntity": [
+                "feed207416b49bbe",
+                {
+                    "parent": "bdd2f3ef19f86bbb",
+                    "name": "Item_Convenient_Makeshift_Explosive",
+                    "factory": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entitytype",
+                    "blueprint": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entityblueprint",
+                    "properties": {
+                        "m_mTransform": {
+                            "type": "SMatrix43",
+                            "value": {
+                                "rotation": {
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 12
+                                },
+                                "position": {
+                                    "x": -5.9123695812225342,
+                                    "y": 0.4578980022668839,
+                                    "z": 1.02907395362854
+                                }
+                            }
+                        },
+                        "repositoryId": {
+                            "type": "ZGuid",
+                            "value": "8f1bae41-3570-40cc-be87-77cb6a4af86c "
+                        },
+                        "anyTrue": {
+                            "type": "bool",
+                            "value": true
+                        },
+                        "m_bSpawnOnStart": {
+                            "type": "bool",
+                            "value": true
+                        },
+                        "m_eidParent": {
+                            "type": "SEntityTemplateReference",
+                            "value": "51f7e79b5efed557",
+                            "postInit": true
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "AddEntity": [
+                "feed202516b75bbc",
+                {
+                    "parent": "bdd2f3ef19f86bbb",
+                    "name": "Item_Convenient_Violin",
+                    "factory": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entitytype",
+                    "blueprint": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entityblueprint",
+                    "properties": {
+                        "m_mTransform": {
+                            "type": "SMatrix43",
+                            "value": {
+                                "rotation": {
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 12
+                                },
+                                "position": {
+                                    "x": -5.7123695812225342,
+                                    "y": 2.5178980022668839,
+                                    "z": 1.02907395362854
+                                }
+                            }
+                        },
+                        "repositoryId": {
+                            "type": "ZGuid",
+                            "value": "4fad7437-59e9-4ca9-9b31-a6d97484216b"
+                        },
+                        "anyTrue": {
+                            "type": "bool",
+                            "value": true
+                        },
+                        "m_bSpawnOnStart": {
+                            "type": "bool",
+                            "value": true
+                        },
+                        "m_eidParent": {
+                            "type": "SEntityTemplateReference",
+                            "value": "51f7e79b5efed557",
+                            "postInit": true
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "patchVersion": 6
+}

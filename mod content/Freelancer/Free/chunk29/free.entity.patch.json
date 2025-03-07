@@ -1,0 +1,39 @@
+{
+	"tempHash": "00A9B93A825F5BDC",
+	"tbluHash": "005BA5CA6AC00627",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"21b00c44646306c",
+				{
+					"RemoveAllEventConnectionsForEvent": "OnTrue"
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"21b00c44646306c",
+				{
+					"RemoveAllEventConnectionsForEvent": "OnFalse"
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"80a351216ee45b53",
+				{
+					"RemoveAllEventConnectionsForEvent": "OnTrue"
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"80a351216ee45b53",
+				{
+					"RemoveAllEventConnectionsForEvent": "OnFalse"
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}
